@@ -4,3 +4,9 @@ body {
 .link {
   color: rgb(52, 66, 29);
 }
+.navigation-links {
+  display: flex;
+  margin-top: 40px;
+
+  justify-content: space-evenly;
+}
